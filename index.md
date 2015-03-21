@@ -1,7 +1,7 @@
-* Larry Plotter y El Bucle Filosofal
-* Larry Plotter y La Clave Secreta del Wifi
-* Larry Plotter y El Prisionero del Firewall
-* Larry Plotter y El Malware de Softonic
-* Larry Plotter y La Orden de Unix
-* Larry Plotter y El Misterio del Hacker
-* Larry Plotter y Los Commits de la Muerte
+* Harry Potter amo de las pociones y El Bucle Filosofal
+* Harry Potter amo de las pociones y La Clave Secreta del Wifi
+* Harry Potter amo de las pociones y El Prisionero del Firewall
+* Harry Potter amo de las pociones y El Malware de Softonic
+* Harry Potter amo de las pociones y La Orden de Unix
+* Harry Potter amo de las pociones y El Misterio del Hacker
+* Harry Potter amo de las pociones y Los Commits de la Muerte
